@@ -2,6 +2,14 @@
 
 We wil be covering various lessons on teaching the Python fundamentals through data science.
 
+# Anaconda 
+
+To open jupyter lab open the navigator and click on:
+
+![image](https://github.com/user-attachments/assets/d2dd590b-f4f7-4fc9-9455-5334ec0d627c)
+
+# Browser Option
+
 To get started use a jupyter browser interface: https://jupyter.org/try
 
 Then click on JupyterLab:
